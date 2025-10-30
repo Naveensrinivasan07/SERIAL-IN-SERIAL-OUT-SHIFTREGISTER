@@ -35,9 +35,7 @@ module EXP10(clk, sin, q); input clk; input sin; output [3:0] q; reg [3:0] q; al
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
 
-Developed by:AASHIK.A
 
-RegisterNumber:25012808
 
 */
 
